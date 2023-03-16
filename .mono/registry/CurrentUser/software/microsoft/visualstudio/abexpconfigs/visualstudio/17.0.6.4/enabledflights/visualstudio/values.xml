@@ -1,0 +1,8 @@
+﻿<values>
+  <value name="vsttk" type="string">true</value>
+  <value name="VSTTKDebugCheckerExp" type="string">false</value>
+  <value name="Roslyn.DisableCloneWhenProducingSkeletonReferences" type="string">false</value>
+  <value name="variable" type="string">true</value>
+  <value name="TypeImportCompletion.NotUsed" type="string">false</value>
+  <value name="vsformacaa" type="string">false</value>
+</values>

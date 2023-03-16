@@ -1,0 +1,13 @@
+﻿<values>
+  <value name="VisualStudio_Ids" type="string-array">
+    <string>TypeImportCompletion.NotUsed</string>
+    <string>vsformacaa</string>
+    <string>vsttk</string>
+    <string>VSTTKDebugCheckerExp</string>
+    <string>Roslyn.DisableCloneWhenProducingSkeletonReferences</string>
+    <string>variable</string>
+  </value>
+  <value name="_Ids" type="string-array">
+    <string>VisualStudio</string>
+  </value>
+</values>

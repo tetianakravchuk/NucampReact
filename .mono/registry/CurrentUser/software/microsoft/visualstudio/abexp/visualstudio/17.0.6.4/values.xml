@@ -1,0 +1,11 @@
+﻿<values>
+  <value name="EnabledFlights" type="string-array">
+    <string>typeimportcompletion</string>
+    <string>multitenanttasmigration_002</string>
+    <string>vivsf702cf</string>
+    <string>vsttk</string>
+    <string>vsttkdebugcheckerexpcf</string>
+    <string>071g0230</string>
+    <string>4f604693</string>
+  </value>
+</values>

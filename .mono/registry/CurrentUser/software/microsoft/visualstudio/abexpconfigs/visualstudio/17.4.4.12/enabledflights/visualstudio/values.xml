@@ -1,0 +1,10 @@
+﻿<values>
+  <value name="vsformacaa" type="string">false</value>
+  <value name="Roslyn.DisableReferenceManagerRecoverableMetadata" type="string">true</value>
+  <value name="Roslyn.DisableBackgroundCompilation" type="string">true</value>
+  <value name="variable" type="string">true</value>
+  <value name="VSTTKDebugCheckerExp" type="string">false</value>
+  <value name="TypeImportCompletion.NotUsed" type="string">false</value>
+  <value name="vsttk" type="string">true</value>
+  <value name="Roslyn.DisableCloneWhenProducingSkeletonReferences" type="string">false</value>
+</values>
